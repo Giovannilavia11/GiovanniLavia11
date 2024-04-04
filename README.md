@@ -4,14 +4,7 @@
 - 🌱 Estudando Ciências da Computação na Universidade Presbiteriana Mackenzie.
 
 <div align="center">
-  <a href="https://github.com/GiovanniLavia11">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GiovanniLavia11&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniLavia11&layout=compact&langs_count=7&theme=react" />
-</div>
-
-<div align="center">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniLavia11&show_icons=true&theme=radical)ㅤ
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniLavia11&layout=donut&theme=radical)](https://github.com/LeonardoGomess/github-readme-stats)
 </div>
