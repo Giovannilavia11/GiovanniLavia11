@@ -8,6 +8,11 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GiovanniLavia11&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniLavia11&layout=compact&langs_count=7&theme=react" />
 </div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoGomess&show_icons=true&theme=radical)ㅤ
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomess&layout=donut&theme=radical)](https://github.com/LeonardoGomess/github-readme-stats)
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
