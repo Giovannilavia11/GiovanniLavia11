@@ -25,4 +25,9 @@
     <a href = "mailto:giovannilavia123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-![Snake animation](https://github.com/filipe-pedroso/filipe-pedroso/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 Snake Game 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LeonardoGomess/LeonardoGomess/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
