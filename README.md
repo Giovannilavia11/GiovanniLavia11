@@ -10,8 +10,8 @@
 <div align="center">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannilavi11&show_icons=true&theme=radical)ㅤ
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannilavia11&layout=donut&theme=radical)](https://github.com/LeonardoGomess/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannilavia11&show_icons=true&theme=radical)ㅤ
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannilavia11&layout=donut&theme=radical)](https://github.com/Giovannilavia11/github-readme-stats)
 </div>
   
 <div align="center" style="display: inline_block"><br>
