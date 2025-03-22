@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 No momento busco oportunidades de trabalho para por em prática meus conhecimentos e aprimorá-los.
-- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 ##
 
