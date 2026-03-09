@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giovanni+Lavia!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giovanni+Alves+Lavia!;"/>
 </h1>
 
 - 🔭 No momento busco oportunidades de trabalho para por em prática meus conhecimentos e aprimorá-los.
@@ -8,26 +8,23 @@
 ##
 
 <div align="center">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannilavia11&show_icons=true&theme=radical)ㅤ
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannilavia11&layout=donut&theme=radical)](https://github.com/Giovannilavia11/github-readme-stats)
-</div>
-
-<div>
-  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api?username=Giovannilavia11&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
-  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?Giovannilavia11=Giovannilavia11&&theme=midnight-purple&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
+  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api?username=Giovannilavia11&theme=blue_navy&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?username=Giovannilavia11&&theme=blue_navy&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
 </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Giovanni-c++" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
+  <img align="center" alt="Giovanni-c++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Giovanni-c++" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />  
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Filipe-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filipe-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />  
+  <img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
   <br>
