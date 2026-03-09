@@ -16,7 +16,7 @@
 
 <div>
   <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api?username=Giovannilavia11&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
-  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?Giovannilavia11=ggarabs&&theme=midnight-purple&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
+  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?Giovannilavia11=Giovannilavia11&&theme=midnight-purple&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
 </div>
   
 <div align="center" style="display: inline_block"><br>
