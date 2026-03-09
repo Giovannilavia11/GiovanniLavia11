@@ -8,8 +8,8 @@
 ##
 
 <div align="center">
-  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api?username=Giovannilavia11&theme=blue_navy&show_icons=true&include_all_commits=true&count_private=true">
-  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?username=Giovannilavia11&&theme=blue_navy&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
+  <img align="center" height="190cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api?username=Giovannilavia11&theme=blue_navy&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="center" height="190cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?username=Giovannilavia11&&theme=blue_navy&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
 </div>
   
 <div align="center" style="display: inline_block"><br>
