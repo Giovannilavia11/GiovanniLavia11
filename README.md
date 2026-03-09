@@ -13,6 +13,11 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannilavia11&show_icons=true&theme=radical)ㅤ
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannilavia11&layout=donut&theme=radical)](https://github.com/Giovannilavia11/github-readme-stats)
 </div>
+
+<div>
+  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api?username=Giovannilavia11&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="center" height="200cm" src="https://github-readme-stats-three-rosy-30.vercel.app/api/top-langs/?Giovannilavia11=ggarabs&&theme=midnight-purple&layout=compact&&langs_count=8&&exclude_repo=gnn-people-flow-prediction,campus-flow-data-generation,AI-academic-studies">
+</div>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
